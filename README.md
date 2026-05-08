@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello, I'm Colton.
+My focus is on finding creative ways to use machine learning.
+I do research sometimes too. 
 
 <!--
 **carnol16/carnol16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
