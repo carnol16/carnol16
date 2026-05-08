@@ -1,5 +1,7 @@
 Hello, I'm Colton.
+
 My focus is on finding creative ways to use machine learning.
+
 I do research sometimes too. 
 
 <!--
