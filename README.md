@@ -1,8 +1,8 @@
 Hello, I'm Colton.
 
-My focus is on finding creative ways to use machine learning.
+My focus is on finding creative ways to use machine learning. Lately, I've been working on an engine that allows multiple LLM's to converse, both on one machine then through multiple machines via websockets. Using this engine, then creating installations. But got a cool project cooking 😎
 
-I do research sometimes too. 
+I do research sometimes too, lately around mechatronic instruments and machine learning.
 
 <!--
 **carnol16/carnol16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
